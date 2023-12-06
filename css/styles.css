@@ -124,6 +124,14 @@ aside {
     list-style: none;
 }
 
+.even {
+    color: lightgreen;
+}
+
+.odd {
+    color: lightskyblue;
+}
+
 /* Style the footer */
 footer {
     background-color: #333;
